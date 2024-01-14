@@ -8,3 +8,4 @@ You wished to try the notebooks yourselves? The GenAI's Lamp makes it come true!
 
 * [Nodebook](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Nodebook.ipynb): install and configure Jupyter Notebook with Node.js kernel
 * [Nodebook OpenAI APIs](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Nodebook%20OpenAI%20APIs.ipynb): discover and play interactively with OpenAI APIs
+* [Noebook PaLM 2 APIs](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Nodebook%20PaLM%202%20APIs.ipynb): access and interact with Google PaLM 2 APIs
