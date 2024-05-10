@@ -10,5 +10,5 @@ You wished to try the notebooks yourselves? The GenAI's Lamp makes it come true!
 * [Nodebook OpenAI APIs](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Nodebook%20OpenAI%20APIs.ipynb): discover and play interactively with OpenAI APIs
 * [Nodebook PaLM 2 APIs](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Nodebook%20PaLM%202%20APIs.ipynb): access and interact with Google PaLM 2 APIs
 * [Nodebook Google Visual & Multimodal APIs](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Nodebook%20Google%20Visual%20%26%20Multimodal%20APIs.ipynb): going multimodal with Google models & APIs (imagen, imagetext and Gemini)
-* [Nodebook Hugging FAce APIs](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Nodebook%20Hugging%20Face%20APIs.ipynb): playing with Hugging Face APIs and models
 * [Flowise](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Flowise.ipynb): notebook used for the episode on Flowise
+* [Nodebook Hugging FAce APIs](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Nodebook%20Hugging%20Face%20APIs.ipynb): playing with Hugging Face APIs, Models, Endpoints, and Spaces
