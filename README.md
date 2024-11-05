@@ -4,5 +4,5 @@
 
 Material associated to [GenAI's Lamp series](https://www.youtube.com/playlist?list=PLpEPN3tmJMNaQg4spmz1y2kGcqFaE2_8m) of Youtube videos.
 
-* [Notebooks running Node.js kernel](https://github.com/worldline/GenAI-Lamp/tree/main/Notebooks)
+* [Notebooks running Node.js or Python kernels](https://github.com/worldline/GenAI-Lamp/tree/main/Notebooks)
 * [Flowise Chatflows](https://github.com/worldline/GenAI-Lamp/tree/main/Flows)
