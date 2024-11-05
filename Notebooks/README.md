@@ -12,6 +12,6 @@ You wished to try the notebooks yourselves? The GenAI's Lamp makes it come true!
 * [Nodebook Google Visual & Multimodal APIs](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Nodebook%20Google%20Visual%20%26%20Multimodal%20APIs.ipynb): going multimodal with Google models & APIs (imagen, imagetext and Gemini)
 * [Flowise](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Flowise.ipynb): notebook used for the episode on Flowise
 * [Nodebook Hugging Face APIs](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Nodebook%20Hugging%20Face%20APIs.ipynb): playing with Hugging Face APIs, Models, Endpoints, and Spaces
-* [Autogen Demo](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Autogen%20with%20tool%20Demo.ipynb): Autogen multi-agent framework
-* [LangGraph Demo](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/LangGraph%20Demo.ipynb): LangGraph multi-agent framework
-* [CrewAI Demo](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/CrewAI%20Demo.ipynb):CrewAI multi-agent framework
+* [Autogen Demo](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/Autogen%20with%20tool%20Demo.ipynb): Autogen multi-agent framework, demo with two agents and tool calling
+* [LangGraph Demo](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/LangGraph%20Demo.ipynb): LangGraph multi-agent framework, demo with two agents
+* [CrewAI Demo](https://github.com/worldline/GenAI-Lamp/blob/main/Notebooks/CrewAI%20Demo.ipynb): CrewAI multi-agent framework, demo with three agents
