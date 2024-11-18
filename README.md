@@ -6,3 +6,4 @@ Material associated to [GenAI's Lamp series](https://www.youtube.com/playlist?li
 
 * [Notebooks running Node.js or Python kernels](https://github.com/worldline/GenAI-Lamp/tree/main/Notebooks)
 * [Flowise Chatflows](https://github.com/worldline/GenAI-Lamp/tree/main/Flows)
+* [ComfyUI Workflows](https://github.com/worldline/GenAI-Lamp/tree/main/ComfyUI)
